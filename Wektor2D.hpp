@@ -8,7 +8,6 @@ public:
     {
         x = a;
         y = b;
-        cout << "Wektor: (" << x << ", " << y << ")\n";
     }
 
     void setX(double new_x) {
